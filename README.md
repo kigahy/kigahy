@@ -1,5 +1,5 @@
 ## GA HYEON KIM
-<!--
+
 Backend Developer
 Embedded SW Developer
 Computer Vision
