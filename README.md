@@ -3,7 +3,6 @@ Backend Developer<br>
 Embedded SW Developer<br>
 Computer Vision<br>
 .<br>
-.<br>
 Interested in building systems that collect and connect data.<br>
 <br>
 ## Tech Stack
