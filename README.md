@@ -2,7 +2,7 @@
 Backend Developer<br>
 Embedded SW Developer<br>
 Computer Vision<br>
-.<br>
+<br>
 Interested in building systems that collect and connect data.<br>
 <br>
 ## Tech Stack
@@ -12,7 +12,7 @@ Embedded: C · Arduino <br>
 Full-Stack: Python · Django · SQLite · JavaScript · Vue.js<br>
 <br>
 ## Projects
-[Ticketing Server (Personal, Backend)](https://github.com/kigahy/ticket-book)<br>
+[Ticketing Server (Personal, Backend)](https://github.com/kigahy/ticket-book)  (In Progress) <br>
 [Vision Board Game (Team, Computer Vision)](https://github.com/kigahy/turkeydice)<br>
 [AMR Robot (Team, Backend)](https://github.com/kigahy/jimdori)<br>
 [Wedding Planner (Team, Backend)](https://github.com/kigahy/weddie)<br>
